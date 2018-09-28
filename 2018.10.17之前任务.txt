@@ -1,0 +1,16 @@
+问题一： 关于git和github
+
+1）注册github账号 
+2）github使用帮助  https://help.github.com/desktop/guides/
+3）安装git
+4）使用参考廖雪峰的git教程
+https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
+
+问题二：毕业设计资料下载地址
+https://github.com/firesister2016/Reference.git
+
+
+问题三：关于任务书
+
+1）确定题目、主要内容介绍（大于300字：1～2句大背景介绍，1～2句为什么要做本课题，本课题要设计的主要内容（功能描述，前端、后端等）、采用的主要开发工具、课题主要特色）。这个内容最好在10月11号之前发给我。
+2）毕业设计任务书的截止时间是10月17日。
